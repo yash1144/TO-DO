@@ -22,7 +22,8 @@ A simple and responsive To-Do List web application built using HTML, CSS, and Ja
 ## Screenshot
 
 ![image](https://github.com/user-attachments/assets/6f46635e-e18e-4753-9c22-4ceab7b218b5)
-![image](https://github.com/user-attachments/assets/6ac80358-689f-47b3-8087-00f661b0ff82)
+![image](https://github.com/user-attachments/assets/4f1a7d80-0ead-4073-9be9-a2446a846713)
+
 
 
 ## Usage
